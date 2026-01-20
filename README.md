@@ -1,6 +1,6 @@
 # Nebim Camion Instruction Website
 
-This website was created as part of a school project in collaboration with Nebim.
+This website was created as part of a school project for a laser-cut Nebim Volvo truck.
 It provides the digital instruction booklet for assembling the Nebim laser-cut Volvo truck model.
 
 ## Disclaimer
