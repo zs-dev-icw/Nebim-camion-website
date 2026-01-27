@@ -102,3 +102,13 @@ img {
   }
 }
 
+@media (max-width: 600px) {
+  .navigatie-strook a {
+    font-size: 14px;       /* smaller text */
+    padding: 6px 8px;      /* tighter spacing */
+  }
+
+  .navigatie-strook ul {
+    gap: 12px;             /* less space between links */
+  }
+}
