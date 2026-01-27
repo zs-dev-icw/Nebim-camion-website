@@ -1,8 +1,12 @@
 .navigatie-strook {
   background-color: black;
-  padding: 20px 0;
   width: 100%;
+  height: 70px; /* ⬅️ This sets the vertical thickness */
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
 
 /* Force the links to stay horizontal */
 .navigatie-strook ul {
