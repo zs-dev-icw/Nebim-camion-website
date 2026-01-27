@@ -1,6 +1,7 @@
 .navigatie-strook {
   background-color: black;
-  padding: 10px 20px;
+  padding: 20px 0;
+  width: 100%;
 }
 
 /* Force the links to stay horizontal */
@@ -34,10 +35,6 @@
   background-color: #444;
   box-shadow: 0 0 8px #ffffff;
   border-radius: 4px;
-}
-
-.navigatie-strook {
-  width: 100%;
 }
 
 .content {
