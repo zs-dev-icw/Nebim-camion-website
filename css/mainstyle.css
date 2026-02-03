@@ -112,3 +112,20 @@ img {
     gap: 12px;             /* less space between links */
   }
 }
+
+.credits {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    display: flex;
+    align-items: center;
+    gap: 6px; /* space between text and image */
+    font-size: 0.85rem; /* similar to h6 size */
+    opacity: 0.8; /* optional, subtle look */
+}
+
+.credits img {
+    width: 1.2em;   /* emoji-sized */
+    height: 1.2em;
+    object-fit: contain;
+}
